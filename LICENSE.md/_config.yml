@@ -1,5 +1,5 @@
 ---
-title: Blog.meixiangru.Github.Io
+title: Blog.Erictreacy.Github.Io
 timezone: America/New_York
 collections:
   posts:
@@ -9,9 +9,8 @@ collections:
     title: Uploads
     output: true
 permalink: "/blog/:title"
-name: "meixiangru"
-description: "daily blog posts"
-encoding: 'utf-8'
+name: Writing
+description: A blog on Jekyll and GitHub Pages
 google_verification: 
 include:
 - ".htaccess"
