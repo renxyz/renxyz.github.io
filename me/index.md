@@ -6,13 +6,12 @@ layout: about
 # Hello! 
 
 
-My name is Eric & I am an Engineer with an aptitude & affinity for bench science, lab design & software.
-
-                    
-I spend my time being a husband to [@jkmogan](https://www.instagram.com/jkmogan), father, runner, climber, skier, scientist & [writing code](https://github.com/erictreacy). 
+My name is meixiangru & I am an Engineer with an aptitude & affinity for bench science, lab design & software.
 
 
-When I actually think to do it, I also enjoy taking [photos](https://erictreacy.me/photos).
+
+
+When I actually think to do it, I also enjoy taking [photos](https://renxyz.github.io/me/).
 
                 
 I seldom [tweet](https://renxyz.github.io/me/), but it's the perfect way to get a hold of me.
