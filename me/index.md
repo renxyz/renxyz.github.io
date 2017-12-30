@@ -15,7 +15,7 @@ I spend my time being a husband to [@jkmogan](https://www.instagram.com/jkmogan)
 When I actually think to do it, I also enjoy taking [photos](https://erictreacy.me/photos).
 
                 
-I seldom [tweet](https://twitter.com/erictreacy), but it's the perfect way to get a hold of me.
+I seldom [tweet](https://renxyz.github.io/me/), but it's the perfect way to get a hold of me.
 
 
 # About this site: 
